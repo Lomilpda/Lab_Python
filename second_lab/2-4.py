@@ -10,3 +10,4 @@ for word in start_string:
         else:
             result.append(char)
 print(result)
+input()

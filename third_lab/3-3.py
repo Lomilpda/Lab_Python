@@ -7,4 +7,4 @@ freq_analysis = ConditionalFreqDist(
     (fileid, name[0])
     for fileid in names.fileids()
     for name in names.words(fileid))
-freq_analis.plot()
+freq_analysis.plot()

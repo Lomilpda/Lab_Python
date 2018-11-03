@@ -1,4 +1,4 @@
 import nltk
-from nltk.book import *
+from nltk.book import text1
 average_lenght = sum([len(word) for word in text1])/len(text1)
-print(round(average_lenght, 4)
+print(round(average_lenght, 4))
